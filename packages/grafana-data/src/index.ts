@@ -849,3 +849,5 @@ export {
   userHasAllPermissions,
   userHasAnyPermission,
 } from './rbac/rbac';
+
+export type { ReduceTransformerOptions } from './transformations/transformers/reduce';
